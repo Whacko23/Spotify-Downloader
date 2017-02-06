@@ -58,6 +58,8 @@ Now to run the script type:
 
 (you can create a batch file shortcut to run the script just by double-click anytime)
 
+[NOTE: spotdl.py must be in the same folder as python.exe]
+
 ## Instructions for Downloading Songs:
 
 - First launch the script using the above command as mentioned for your OS.
